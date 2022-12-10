@@ -1,7 +1,5 @@
 public class Test1 {
     public static void main(String[] args) {
-//dewdrfwdswddwe
-        //frssd
-        //fd
+        System.out.println("Hello");
     }
 }
